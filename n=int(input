@@ -1,0 +1,7 @@
+l=[]
+n=lnt(input('enter number'))
+for i in range(n):
+x=int(input())
+l.append(x)
+x=l.reverse()
+print(l)
